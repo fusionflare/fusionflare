@@ -4,8 +4,8 @@
 
 ```css
 #fusionflare {
-  full-name: phuwarin-janaporn;
-  callme: pang-pond;
+  whoami: phuwarin-janaporn;
+  call-me: pang-pond;
   dob: 809157660;
   position: supervisor-developer;
   company: rs-group;
